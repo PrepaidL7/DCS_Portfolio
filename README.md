@@ -7,8 +7,7 @@
   
 ## Work Experience
 **Intern @ Emprende (_January, 2024 - July 2024_)**  
- 
-- Conducted an in-depth analysis of credit risk metrics, leveraging statistical models and machine learning tools.  
+  
 - Supported the data engineering process, including cleaning, preprocessing, and merging large datasets.
 - Designed and implemented a logistic regression model to classify credit approval, achieving interpretability of key financial variables and aiding decision making.  
 - Developed a random forest model for credit risk assessment, improving prediction accuracy by 5%, with a total precision of 91.58%.  
