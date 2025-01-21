@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Scikit-Learn, Azure
 
 ## Education
-- B.S., Actuarial Science | [Benemerita Universidad Autonoma de Puebla] (_2025_)
+- B.S., Actuarial Science | Benemerita Universidad Autonoma de Puebla (_2025_)
   
 ## Work Experience
 **Intern @ Emprende (_January, 2024 - July 2024_)**  
@@ -11,7 +11,6 @@
 - Supported the data engineering process, including cleaning, preprocessing, and merging large datasets.
 - Designed and implemented a logistic regression model to classify credit approval, achieving interpretability of key financial variables and aiding decision making.  
 - Developed a random forest model for credit risk assessment, improving prediction accuracy by 5%, with a total precision of 91.58%.  
-- Automated data pipelines in Power Query to streamline the integration of large datasets, reducing processing time by 30%.  
 - Delivered insights and reports for stakeholders, supporting the optimization of financial operations. 
 - Prepared executive-level presentations detailing the impact of data-driven financial solutions.
 
