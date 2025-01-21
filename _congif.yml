@@ -1,5 +1,5 @@
 title: Diego Cardeña 
 logo: /assets/Headshot.png
 #description:
-#show_download: true
+show_downloads: true
 theme: jekyll-theme-minimal
