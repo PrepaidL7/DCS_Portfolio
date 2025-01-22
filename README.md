@@ -23,7 +23,7 @@ Developed a comparative analysis of logistic regression and random forest models
 - Utilized Python and Scikit-Learn for model building, validation, and feature importance analysis.  
 - Presented key findings, such as the impact of specific financial variables on credit approval, demonstrating advanced skills in data manipulation and storytelling.  
 
-##Tecnical Skills Projects
+## Tecnical Skills Projects
 ### Data analysis using The Movie Database (TMDB) 
 
 Developed an in-depth analysis of movie data from the TMDB API to uncover insights on popular movies, genres, and trends, demonstrating proficiency in data manipulation and visualization.
