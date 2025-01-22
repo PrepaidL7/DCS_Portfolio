@@ -14,7 +14,7 @@
 - Delivered insights and reports for stakeholders, supporting the optimization of financial operations. 
 - Prepared executive-level presentations detailing the impact of data-driven financial solutions.
 
-## Projects
+## Impact Projects
 ### Credit Risk Evaluation with Machine Learning  
 
 - [Repository](https://github.com/PrepaidL7/Credit-Classification-Models)
@@ -22,6 +22,18 @@
 Developed a comparative analysis of logistic regression and random forest models to evaluate credit risk for microloans, showcasing a balance between interpretability and prediction accuracy.  
 - Utilized Python and Scikit-Learn for model building, validation, and feature importance analysis.  
 - Presented key findings, such as the impact of specific financial variables on credit approval, demonstrating advanced skills in data manipulation and storytelling.  
+
+##Tecnical Skills Projects
+### Data analysis using The Movie Database (TMDB) 
+
+Developed an in-depth analysis of movie data from the TMDB API to uncover insights on popular movies, genres, and trends, demonstrating proficiency in data manipulation and visualization.
+
+- Utilized Python, Pandas, and Matplotlib for data wrangling, feature extraction, and data visualization.
+- Conducted exploratory data analysis (EDA) to identify patterns in movie ratings, genres, and release dates, highlighting significant trends in movie popularity.
+- Presented key insights, such as the relationship between movie genre and rating, showcasing the ability to extract actionable insights from large datasets.
+
+- [Repository](https://github.com/PrepaidL7/TMDB-MovieInsights)
+
 
 
 ## Talks & Lectures
