@@ -45,26 +45,26 @@ __[Data Cleaning](https://github.com/PrepaidL7/TMDB-MovieInsights/blob/main/Proj
 
 Developed an in-depth analysis of movie genre data, focusing on extracting and processing structured information from nested data formats.
 
--Utilized Python and Pandas to clean and process lists of dictionaries, extracting relevant genre information efficiently.
--Applied data transformation techniques to restructure and filter movie genres, ensuring accurate representation and usability.
--Conducted exploratory data analysis (EDA) to identify patterns in genre distributions and isolate specific categories like "Family" for further insights.
--Presented key findings on handling JSON-like data structures, showcasing the ability to extract, filter, and refine information from complex datasets.
+- Utilized Python and Pandas to clean and process lists of dictionaries, extracting relevant genre information efficiently.
+- Applied data transformation techniques to restructure and filter movie genres, ensuring accurate representation and usability.
+- Conducted exploratory data analysis (EDA) to identify patterns in genre distributions and isolate specific categories like "Family" for further insights.
+- Presented key findings on handling JSON-like data structures, showcasing the ability to extract, filter, and refine information from complex datasets.
 
 __[Merging Movies](https://github.com/PrepaidL7/TMDB-MovieInsights/blob/main/Project_01_Merging_Movies.ipynb)__
 
 Developed a structured data processing workflow to efficiently merge and analyze multiple datasets. 
 
--Utilized Python and Pandas to merge datasets, handling different join types (inner, outer, left, and right) to ensure data completeness and accuracy.
--Addressed data inconsistencies by resolving duplicate records, handling missing values, and standardizing column formats, improving dataset reliability for analysis.
+- Utilized Python and Pandas to merge datasets, handling different join types (inner, outer, left, and right) to ensure data completeness and accuracy.
+- Addressed data inconsistencies by resolving duplicate records, handling missing values, and standardizing column formats, improving dataset reliability for analysis.
 
 __[Pandas and SQL](https://github.com/PrepaidL7/TMDB-MovieInsights/blob/main/Project_01_Pandas%26SQL.ipynb)__
 
 Developed an in-depth analysis of movie data by integrating Pandas and SQL.
 
--Utilized Python, Pandas, and SQLite to process and analyze datasets containing information on movies, genres, production companies, and audience ratings.
--Created and managed an SQLite database, loading multiple datasets into structured tables to enable efficient querying and data retrieval.
--Conducted SQL-based exploratory data analysis (EDA) to extract key insights, including total revenue, average budget, and the impact of movie collections on financial performance.
--Executed complex SQL queries to analyze movie trends, genre distributions, and the relationship between audience ratings and production characteristics.
+- Utilized Python, Pandas, and SQLite to process and analyze datasets containing information on movies, genres, production companies, and audience ratings.
+- Created and managed an SQLite database, loading multiple datasets into structured tables to enable efficient querying and data retrieval.
+- Conducted SQL-based exploratory data analysis (EDA) to extract key insights, including total revenue, average budget, and the impact of movie collections on financial performance.
+- Executed complex SQL queries to analyze movie trends, genre distributions, and the relationship between audience ratings and production characteristics.
 
 ### California-Housing-ML [Repository](https://github.com/PrepaidL7/California-Housing-ML)
 
