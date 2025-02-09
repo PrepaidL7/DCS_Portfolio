@@ -24,7 +24,9 @@ Developed a comparative analysis of logistic regression and random forest models
 - Presented key findings, such as the impact of specific financial variables on credit approval, demonstrating advanced skills in data manipulation and storytelling.  
 
 ## Tecnical Skills Projects
-### Data analysis using The Movie Database (TMDB) [Repository](https://github.com/PrepaidL7/TMDB-MovieInsights)
+### Data analysis using The Movie Database (TMDB) 
+
+- [Repository](https://github.com/PrepaidL7/TMDB-MovieInsights)
 
 __[MovieVerse Insights](https://github.com/PrepaidL7/TMDB-MovieInsights/blob/main/Project_01_MovieVerse_Insights.ipynb)__
 
@@ -66,7 +68,9 @@ Developed an in-depth analysis of movie data by integrating Pandas and SQL.
 - Conducted SQL-based exploratory data analysis (EDA) to extract key insights, including total revenue, average budget, and the impact of movie collections on financial performance.
 - Executed complex SQL queries to analyze movie trends, genre distributions, and the relationship between audience ratings and production characteristics.
 
-### California-Housing-ML [Repository](https://github.com/PrepaidL7/California-Housing-ML)
+### California-Housing-ML 
+
+- [Repository](https://github.com/PrepaidL7/California-Housing-ML)
 
 __[EDA, Preprocesamiento, ML](https://github.com/PrepaidL7/California-Housing-ML/blob/main/Project_02_EDA_Prepros%26ML.ipynb)__
 
