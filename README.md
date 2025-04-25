@@ -6,7 +6,7 @@
 - B.S., Actuarial Science | Benemerita Universidad Autonoma de Puebla (_2025_)
   
 ## Work Experience
-**Intern @ Emprende (_January, 2024 - July 2024_)**  
+**Intern @ Emprende Financiera (2024)**  
   
 - Supported the data engineering process, including cleaning, preprocessing, and merging large datasets.
 - Designed and implemented a logistic regression model to classify credit approval, achieving interpretability of key financial variables and aiding decision making.  
