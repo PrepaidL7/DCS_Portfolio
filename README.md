@@ -1,4 +1,4 @@
-# Data Scientist
+# Actuary
 
 #### Technical Skills: Python, SQL, Scikit-Learn, Azure
 
