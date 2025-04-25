@@ -1,6 +1,6 @@
 # Actuary
 
-#### Technical Skills: Python, SQL, Scikit-Learn, Azure
+#### Technical Skills: Python, SQL, Scikit-Learn, AzureML
 
 ## Education
 - B.S., Actuarial Science | Benemerita Universidad Autonoma de Puebla (_2025_)
