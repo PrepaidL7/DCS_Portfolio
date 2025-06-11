@@ -21,7 +21,19 @@
 
 Developed a comparative analysis of logistic regression and random forest models to evaluate credit risk for microloans, showcasing a balance between interpretability and prediction accuracy.  
 - Utilized Python and Scikit-Learn for model building, validation, and feature importance analysis.  
-- Presented key findings, such as the impact of specific financial variables on credit approval, demonstrating advanced skills in data manipulation and storytelling.  
+- Presented key findings, such as the impact of specific financial variables on credit approval, demonstrating advanced skills in data manipulation and storytelling.
+
+### Credit Scoring with Machine Learning 
+
+- [Repository](https://github.com/PrepaidL7/Credit-Scoring-PD)
+
+Developed a credit scoring project focused on estimating the probability of default (PD) using logistic regression, with an emphasis on regulatory compliance, interpretability, and practical deployment for microloan portfolios.
+
+- Performed full-cycle data preparation, including missing value imputation, class balancing, and fine/coarse binning of variables using WoE and IV metrics to ensure consistency with Basel II/III scorecard requirements.
+- Built logistic regression models in Python using Scikit-Learn and Statsmodels, comparing model performance through AUC, KS, and confusion matrix analyses.
+- Scaled model outputs into interpretable scorecards, demonstrating how PD estimates can be translated into operational credit decision tools.
+- Highlighted the contribution of key financial and behavioral features to credit outcomes, balancing predictive performance with explainability.
+- Designed the project to complement and extend the work in the Credit-Classification-Models repository, adding depth in regulatory scorecard design and PD estimation.
 
 ## Tecnical Skills Projects
 ### Data analysis using The Movie Database (TMDB) 
