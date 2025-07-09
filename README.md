@@ -35,6 +35,22 @@ Developed a credit scoring project focused on estimating the probability of defa
 - Highlighted the contribution of key financial and behavioral features to credit outcomes, balancing predictive performance with explainability.
 - Designed the project to complement and extend the work in the Credit-Classification-Models repository, adding depth in regulatory scorecard design and PD estimation.
 
+### Macroeconomic Default Modeling and Stress Testing
+
+- [Repository](https://github.com/PrepaidL7/Stress-Testing-IMORA) 
+
+Developed a macroeconomic modeling project aimed at estimating the probability of default (PD) in credit card portfolios using economic indicators and applying stress testing techniques aligned with risk management practices.
+
+- Constructed a logit-based macroeconomic model using monthly data from 2015 to 2024, incorporating over 30 indicators from INEGI and Banxico, including GDP, inflation, employment, interest rates, and external trade figures.
+- Applied multiple regression techniques—Ordinary Least Squares, Ridge, Lasso, and Elastic Net—to model the transformed logit(PD) variable, using time-aware cross-validation and lagged variables to respect temporal dependencies.
+- Selected Ridge regression as the final model due to its superior generalization performance, optimized via custom RMSE weighting to prioritize prediction accuracy during high-risk periods (PD peaks).
+- Interpreted the economic significance of key features such as IGAE, CETES, and import volume, demonstrating how shifts in macroeconomic conditions translate into variations in portfolio-level credit risk.
+- Designed and implemented a stress testing framework by simulating adverse scenarios (e.g., interest rate hikes, economic contraction), quantifying their projected impact on default probabilities using the fitted model.
+- Produced visual comparisons and quantitative metrics illustrating how macro shocks propagate through the model, increasing estimated PD by up to 1.86 percentage points under a moderate economic downturn.
+
+This project highlights the integration of statistical modeling with economic intuition to support forward-looking credit risk management strategies in financial institutions.
+
+
 ## Tecnical Skills Projects
 ### Data analysis using The Movie Database (TMDB) 
 
